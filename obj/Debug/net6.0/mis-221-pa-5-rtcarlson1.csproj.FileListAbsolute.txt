@@ -1,0 +1,15 @@
+/Users/ryancarlson/Desktop/MIS 221/mis-221-pa-5-rtcarlson1/obj/Debug/net6.0/mis-221-pa-5-rtcarlson1.csproj.AssemblyReference.cache
+/Users/ryancarlson/Desktop/MIS 221/mis-221-pa-5-rtcarlson1/obj/Debug/net6.0/mis-221-pa-5-rtcarlson1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryancarlson/Desktop/MIS 221/mis-221-pa-5-rtcarlson1/obj/Debug/net6.0/mis-221-pa-5-rtcarlson1.AssemblyInfoInputs.cache
+/Users/ryancarlson/Desktop/MIS 221/mis-221-pa-5-rtcarlson1/obj/Debug/net6.0/mis-221-pa-5-rtcarlson1.AssemblyInfo.cs
+/Users/ryancarlson/Desktop/MIS 221/mis-221-pa-5-rtcarlson1/obj/Debug/net6.0/mis-221-pa-5-rtcarlson1.csproj.CoreCompileInputs.cache
+/Users/ryancarlson/Desktop/MIS 221/mis-221-pa-5-rtcarlson1/bin/Debug/net6.0/mis-221-pa-5-rtcarlson1
+/Users/ryancarlson/Desktop/MIS 221/mis-221-pa-5-rtcarlson1/bin/Debug/net6.0/mis-221-pa-5-rtcarlson1.deps.json
+/Users/ryancarlson/Desktop/MIS 221/mis-221-pa-5-rtcarlson1/bin/Debug/net6.0/mis-221-pa-5-rtcarlson1.runtimeconfig.json
+/Users/ryancarlson/Desktop/MIS 221/mis-221-pa-5-rtcarlson1/bin/Debug/net6.0/mis-221-pa-5-rtcarlson1.dll
+/Users/ryancarlson/Desktop/MIS 221/mis-221-pa-5-rtcarlson1/bin/Debug/net6.0/mis-221-pa-5-rtcarlson1.pdb
+/Users/ryancarlson/Desktop/MIS 221/mis-221-pa-5-rtcarlson1/obj/Debug/net6.0/mis-221-pa-5-rtcarlson1.dll
+/Users/ryancarlson/Desktop/MIS 221/mis-221-pa-5-rtcarlson1/obj/Debug/net6.0/refint/mis-221-pa-5-rtcarlson1.dll
+/Users/ryancarlson/Desktop/MIS 221/mis-221-pa-5-rtcarlson1/obj/Debug/net6.0/mis-221-pa-5-rtcarlson1.pdb
+/Users/ryancarlson/Desktop/MIS 221/mis-221-pa-5-rtcarlson1/obj/Debug/net6.0/mis-221-pa-5-rtcarlson1.genruntimeconfig.cache
+/Users/ryancarlson/Desktop/MIS 221/mis-221-pa-5-rtcarlson1/obj/Debug/net6.0/ref/mis-221-pa-5-rtcarlson1.dll
